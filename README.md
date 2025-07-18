@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on budgetbook<br>🌱 I’m currently learning Deep Learning<br>👨‍💻 All of my projects are available at https://tanmay-sharma.vercel.app/<br>💬 Ask me about react, machine learning<br>📫 How to reach me tookstanmay@gmail.com<br>📄 Know about my experiences https://tanmay-sharma.vercel.app/documents/Tanmay_S_Resume.pdf
+🔭 I’m currently working on budgetbook<br>🌱 I’m currently learning Deep Learning<br>👨‍💻 All of my projects are available at https://tanmay-sharma.vercel.app/<br>💬 Ask me about react, machine learning<br>📫 How to reach me tookstanmay@gmail.com<br>📄 Know about my experiences [https://tookstanmay.vercel.app/documents/Tanmay_S_Resume.pdf](https://drive.google.com/file/d/1jCVb2Zxk42qz5neYscqPRkg83-xSZZym/view?usp=drive_link)
 
 
 ## 🌐 Socials:
